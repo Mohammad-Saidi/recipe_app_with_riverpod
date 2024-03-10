@@ -46,6 +46,7 @@ class _RecipeDetailState extends State<RecipeDetail> {
                       '${ingredient.measure } '
                       '${ingredient.name } ');
                 },
+
               ),
             ),
             Slider(
